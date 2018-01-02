@@ -3,7 +3,7 @@ title: "Mẹo vặt nhân gian"
 url-title: "Mẹo vặt Toàn Tập"
 description: "Đoàn Bình"
 paginate: 100
-url: "http://meovattoantap.com"
+url: "http://meovattoantap.org"
 permalink: /:year/:month/:title/
 future: false
 defaults:
